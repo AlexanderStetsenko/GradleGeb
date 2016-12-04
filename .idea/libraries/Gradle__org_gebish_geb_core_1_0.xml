@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.gebish:geb-core:1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gebish/geb-core/1.0/c263ff455ea337ffb80d6eac061747a83e41c297/geb-core-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gebish/geb-core/1.0/5d4523f98f32bfa6ad32d5b6320c3c4b4297aaf1/geb-core-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
